@@ -15,6 +15,7 @@ h1.topHeading {
 }
 
 div.pics{
+	padding-top: 15%;
 	text-align: center;
 }
 
@@ -41,6 +42,7 @@ div.menuBar {
 }
 
 .pagematerial {
+	padding-top: 3%;
 	float: none;
 
 }
@@ -98,4 +100,15 @@ a#homelink:active{
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: white;
 	font-size: 1.0em;
+}
+
+
+p.pageText {
+	color: white;
+	font-size: 1.75em;
+	width: 60%;
+	margin-right: auto;
+	margin-left: auto;
+
+
 }
